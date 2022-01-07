@@ -1,0 +1,53 @@
+body {
+  text-align: center;
+  background-color: #a9d7e9;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 22px;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.form {
+  background-color: #f3f3f3;
+  width: 60%;
+  position: relative;
+  left: 20%;
+  margin: 0;
+  border-radius: 10px;
+  padding: 20px 10px 10px 10px;
+}
+
+.question {
+  text-align: right;
+  width: 47%;
+  position: relative;
+  top: 3px;
+
+
+}
+
+.table {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+}
+
+.answer{
+  width: 50%;
+  text-align: left;
+  position: relative;
+  left: 50%;
+  bottom:15px;
+
+}
+.impo{
+top: 22px;
+}
